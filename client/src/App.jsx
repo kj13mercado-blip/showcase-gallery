@@ -71,7 +71,7 @@ function App() {
       )}
 
       <footer className="py-10 text-center text-sm text-slate-400">
-        Made by Alayon, Kiezha Margaret · INF232
+        Made by Mercado, Kristine Jellaine · INF232
       </footer>
     </div>
   );
