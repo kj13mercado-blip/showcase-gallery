@@ -1,7 +1,7 @@
 import { useState } from "react";
 import ImageUpload from "./ImageUpload";
  
-const emptyForm = { nane: "", price: "", description: "", image: "" };
+const emptyForm = { name: "", price: "", description: "", image: "" };
 const inputClass =
 "w-full rounded-xl border border-slate-300 px-4 py-3 outline-none " +
 "transition focus:border-indigo-500 focus:ring-4 focus:ring-indigo-100";
